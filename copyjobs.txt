@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Copy Jobs
+// @name         Copy Job
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Show job title and company name on the left-hand side
