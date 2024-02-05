@@ -6,7 +6,7 @@
 // @match        *://*.naukri.com/job-listings*
 // @match        *://*.linkedin.com/jobs/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/dwaynekd/Copy-Jobs/main/copyjobs.txt
+// @updateURL    https://raw.githubusercontent.com/dwaynekd/Copy-Jobs/main/copyjobs.js
 // ==/UserScript==
 
 function addSidebar() {
